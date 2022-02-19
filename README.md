@@ -96,10 +96,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
+- [Saweria](https://saweria.co/MochiEx)
 
 # Official Group
 - [Alphabot 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
