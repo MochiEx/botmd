@@ -708,7 +708,7 @@ return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
 Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
-Recode : https://github.com/MochiEx
+Recode : https://github.com/MochiEx/botmd
 `
 }
 exports.tos = (ownernomer) => {
